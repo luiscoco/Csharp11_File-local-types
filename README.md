@@ -11,7 +11,7 @@ namespace MyNamespace
     public partial class MyClass
     {
         // This is a file-local type declaration
-        file-local class FileLocalClass
+        file class FileLocalClass
         {
             public void FileLocalMethod()
             {
